@@ -38,3 +38,6 @@ for row in range(second_sheet.nrows):
         pass
 """
 print(i)
+
+#try_later_link:
+#https://stackoverflow.com/questions/42907331/how-to-install-pandas-from-pip-on-windows-cmd
